@@ -1,5 +1,7 @@
 # **Raven b3** deobfuscated
 
+### See also [Raven b+](https://github.com/Kopamed/Raven-bPLUS) an awesome project base on this repo
+
 ## Warning ⚠️:
 > This repo is for educational purposes only. I am NOT responsible for ANY consequences of it use/distribute !
 
